@@ -6,27 +6,15 @@ print("4 - Display")
 
 menu_option = int(input("Enter options: "))
 
-"""
+
 if menu_option == 1:
     print("Option 1 selected")
-if menu_option == 2:
+elif menu_option == 2:
     print("Option 2 selected")
-if menu_option == 3:
+elif menu_option == 3:
     print("Option 3 selected")
-if menu_option == 4:
+elif menu_option == 4:
     print("Option 4 selected")
-else:
-    print("Invalid option")
 
-"""
-
-if menu_option == 1:
-    print("Option 1 selected")
-    if menu_option == 2:
-        print("Option 2 selected")
-        if menu_option == 3:
-            print("Option 3 selected")
-            if menu_option == 4:
-                print("Option 4 selected")
 else:
     print("Invalid option")
