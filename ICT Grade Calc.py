@@ -4,7 +4,7 @@ john = { "name":"John Smith",
          "final" : [90.20] 
        } 
          
-dan = { "name" : "Dan Howard", 
+dan = { "name" : "Dan How", 
         "assessment" : [56], 
         "homework" : [56], 
         "final" : [40.6] 
